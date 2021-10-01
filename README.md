@@ -1,4 +1,4 @@
 # Digi-Resume
 
-hacktoberfest
-hacktoberfest-accepted
+#hacktoberfest
+#hacktoberfest-accepted
